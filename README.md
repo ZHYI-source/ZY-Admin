@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gitee.com/Z568_568/mango-blog-system.git">
-    <img src="doc/logo.png" alt="Logo" width="150" height="180">
+    <img src="doc/logo.png" alt="Logo" width="150" height="210">
   </a>
 
 <h3 align="center">" 🔥 ZY·Admin "</h3>
