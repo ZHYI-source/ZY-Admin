@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://gitee.com/Z568_568/mango-blog-system.git">
-    <img src="doc/logo.png" alt="Logo" width="100" height="80">
+    <img src="doc/logo.png" alt="Logo" width="150" height="150">
   </a>
 
-<h3 align="center">" 🔥 MG'Blog "</h3>
+<h3 align="center">" 🔥 ZY·Admin "</h3>
   <p align="center">
-    ZY·Admin - 现代化的管理系统【简洁版】
+    基于 Vue3 + js 现代化的管理系统【简洁版】
     <br />
     <a href="https://gitee.com/Z568_568/ZY-Admin.git" target="_blank"><strong>探索本项目的源码 »</strong></a>
     <br />
