@@ -113,7 +113,7 @@ ZY·Admin是一个开源项目，根据MIT许可证发布。有关更多信息�
 如果你有任何问题或建议，请通过以下方式联系我：
 
 - 邮箱：1840354092@qq.com
-- 微信：<img src="doc/img_6.png" width = "150" height = "300" >
+- 微信：<img src="doc/img_6.png" width = "150" >
 
 ####  赞赏作者
 
