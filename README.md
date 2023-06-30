@@ -1,8 +1,31 @@
-# ZY·Admin - 现代化的管理系统
+# ZY·Admin【简洁版】
+
+<p align="center">
+  <a href="https://gitee.com/Z568_568/mango-blog-system.git">
+    <img src="doc/logo.png" alt="Logo" width="100" height="80">
+  </a>
+
+<h3 align="center">" 🔥 MG'Blog "</h3>
+  <p align="center">
+    ZY·Admin - 现代化的管理系统【简洁版】
+    <br />
+    <a href="https://gitee.com/Z568_568/ZY-Admin.git" target="_blank"><strong>探索本项目的源码 »</strong></a>
+    <br />
+</p>
+</p>
 
 ZY·Admin是一个现代化的管理系统，提供了一系列功能丰富的组件和工具，帮助开发者快速搭建和开发管理后台应用。
 
-基于 Vue 3 + js + Pinia +Vite + Ant Design Vue 构建
+**基于 Vue 3 + js + Pinia +Vite + Ant Design Vue 构建**  
+
+做这个项目主要原因：全网大都是 Vue3 + TypeScript 版本的,so so 决定做一个JavaScript版本的供大家使用
+
+---
+
+> 💥 完整版还在开发中... 将会包含（管理后台+web前台+Node后端代码一整套）
+
+#### 其他开源项目
+
 
 ## 截图
 <img  src="doc/img.png" width = "300" height = "150">
@@ -25,6 +48,7 @@ ZY·Admin是一个现代化的管理系统，提供了一系列功能丰富的�
 - 使用 hotkeys-js 提供快捷键支持，增强用户操作体验
 - 使用 Lodash 提供常用工具函数，简化开发流程
 - 集成了测试工具集 @vue/test-utils 和 vitest，方便进行单元测试
+- 更多....
 
 
 ## 快速开始
