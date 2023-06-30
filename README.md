@@ -5,12 +5,12 @@ ZY·Admin是一个现代化的管理系统，提供了一系列功能丰富的�
 基于 Vue 3 + js + Pinia +Vite + Ant Design Vue 构建
 
 ## 截图
-
-<img src="doc/img.png">
-<img src="doc/img_1.png">
-<img src="doc/img_2.png">
-<img src="doc/img_3.png">
-<img src="doc/img_4.png">
+<img  src="doc/img.png" width = "300" height = "150">
+<img src="doc/img_1.png" width = "300" height = "150">
+<img src="doc/img_2.png" width = "300" height = "150">
+<img src="doc/img_3.png" width = "300" height = "150">
+<img src="doc/img_4.png" width = "300" height = "150">
+<img src="doc/img_5.png" width = "300" height = "150">
  
 
 ## 功能特性
@@ -113,6 +113,11 @@ ZY·Admin是一个开源项目，根据MIT许可证发布。有关更多信息�
 如果你有任何问题或建议，请通过以下方式联系我：
 
 - 邮箱：1840354092@qq.com
-- 微信：
+- 微信：<img src="doc/img_6.png">
+
+####  赞赏作者
+
+ <img src="doc/img_7.png" width = "150" height = "150" alt="图片名称" align=center />
+ <img src="doc/img_8.png" width = "150" height = "150" alt="图片名称" align=center />
 
 
