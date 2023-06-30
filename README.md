@@ -11,6 +11,8 @@
     <br />
     <a href="https://gitee.com/Z568_568/ZY-Admin.git" target="_blank"><strong>探索本项目的源码 »</strong></a>
     <br />
+<a href='https://gitee.com/Z568_568/ZY-Admin/stargazers'><img src='https://gitee.com/Z568_568/ZY-Admin/badge/star.svg?theme=dark' alt='star'></img></a>
+<a href='https://gitee.com/Z568_568/ZY-Admin/members'><img src='https://gitee.com/Z568_568/ZY-Admin/badge/fork.svg?theme=dark' alt='fork'></img></a>
 </p>
 </p>
 
