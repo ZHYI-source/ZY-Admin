@@ -18,14 +18,11 @@ ZY·Admin是一个现代化的管理系统，提供了一系列功能丰富的�
 
 **基于 Vue 3 + js + Pinia +Vite + Ant Design Vue 构建**  
 
-做这个项目主要原因：全网大都是 Vue3 + TypeScript 版本的,so so 决定做一个JavaScript版本的供大家使用
+ 做这个项目主要原因：全网大都是 Vue3 + TypeScript 版本的,so so 决定做一个JavaScript版本的供大家使用
 
 ---
 
 > 💥 完整版还在开发中... 将会包含（管理后台+web前台+Node后端代码一整套）
-
-#### 其他开源项目
-
 
 ## 截图
 <img  src="doc/img.png" width = "300" height = "150">
@@ -49,6 +46,12 @@ ZY·Admin是一个现代化的管理系统，提供了一系列功能丰富的�
 - 使用 Lodash 提供常用工具函数，简化开发流程
 - 集成了测试工具集 @vue/test-utils 和 vitest，方便进行单元测试
 - 更多....
+
+#### 我的其他开源项目
+>[😜博客全栈系统 vue2 + node.js](https://gitee.com/Z568_568/all-blog-sys.git)
+>[个人文件管理+图床管理服务系统](https://gitee.com/Z568_568/zy.files.sys.git)
+>[node+mysql后端api基础服务模板](https://gitee.com/Z568_568/zy-express-sequelize-mysql)
+>[node+mongodb开发REST API 的轻量级样板](https://gitee.com/Z568_568/node.mongodb)
 
 
 ## 快速开始
