@@ -15,7 +15,7 @@
               退出系统
             </span>
           </a-menu-item>
-          <a-menu-item>
+          <a-menu-item v-if="false">
             <span>
               <IconFont type="icon-customer-add-fill"/>
               个人中心

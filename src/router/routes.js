@@ -212,7 +212,7 @@ const frameIn = [
                 component: () => import('@/views/sys/frame/dir-frame-info.vue'),
             },
             {
-                path: 'https://gitee.com/Z568_568',
+                path: 'https://gitee.com/Z568_568/ZY-Admin.git',
                 meta: {
                     link: true,
                     title: '源码',
