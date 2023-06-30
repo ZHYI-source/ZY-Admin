@@ -27,12 +27,12 @@ ZY·Admin是一个现代化的管理系统，提供了一系列功能丰富的�
 > 💥 完整版还在开发中... 将会包含（管理后台+web前台+Node后端代码一整套）
 
 ## 截图
-<img  src="doc/img.png" width = "300" height = "150">
-<img src="doc/img_1.png" width = "300" height = "150">
-<img src="doc/img_2.png" width = "300" height = "150">
-<img src="doc/img_3.png" width = "300" height = "150">
-<img src="doc/img_4.png" width = "300" height = "150">
-<img src="doc/img_5.png" width = "300" height = "150">
+<img  src="doc/img.png">
+<img src="doc/img_1.png" >
+<img src="doc/img_2.png" >
+<img src="doc/img_3.png">
+<img src="doc/img_4.png">
+<img src="doc/img_5.png">
  
 
 ## 功能特性
